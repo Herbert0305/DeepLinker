@@ -1,0 +1,8 @@
+{
+  "Target_Uniprot": "P10275",
+  "E3_Uniprot": "Q96SW2",
+  "Warhead_Smiles": "CNC(=O)C1=CC=C(N2C(=S)N(C3=CC=C(C#N)C(C(F)(F)F)=C3)C(=O)C2(C)C)C=C1F",
+  "E3_Smiles": "O=C1CCC(N2C(=O)C3=CC=CC=C3C2=O)C(=O)N1",
+  "Linker_Smiles": "NCCNC(=O)COCCCCN1N=CC(C)=N1",
+  "cell_type": "UNKNOWN"
+}
