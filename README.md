@@ -18,4 +18,6 @@ Use this script to test multiple samples and select the top-k candidates based o
 
 python Top_linker_prediction.py
 
+The complete ProBERT model can be downloaded from Hugging Face.
+
 
